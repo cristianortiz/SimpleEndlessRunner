@@ -1,4 +1,4 @@
-# Simple Endless Runner en Unreal Engine4
-segundo proyecto de juego sencillo
 
+# SimpleEndlessRunner
+Proyecto de endless runner sencillo en Unreal Engine 4
 
